@@ -1,0 +1,39 @@
+TBag 2.5.1.2
+- Changed the UIDropDownMenu library to version 4.0
+
+TBag 2.5.1.1
+- TBag now works in TBC Classic
+
+TBag 1.13.5.2
+- The background color of the advanced settings window is now opaque
+  and this color is the same as the window from which these settings are opened
+- Added the Configuration button in the inventory window and in the bank window
+- The inventory window and the Bank window can now be opaque (Configuration -> Set Colors -> Main Background Color)
+
+TBag 1.13.5.1
+- Added the UIDropDownMenu library
+https://www.wowace.com/projects/libuidropdownmenu
+About the library: Standard UIDropDownMenu global functions using protected frames and causing taints when used by third-party addons. But it is possible to avoid taints by using same functionality with that library.
+
+TBag 1.13.4.3
+- Fixed an issue with displaying a single charge
+
+TBag 1.13.4.2
+- The text color for the number of charges is changed to blue
+
+TBag 1.13.4.1
+- Added support of the charges on the items.
+  If the item has charges, then their number is shown in green font.
+  Otherwise the number of items is shown
+
+TBag 1.13.3.1
+- Problem with hunter's bags resolved
+- Added support for the keyring
+
+TBag 1.13.2.3
+- Problem with special bags resolved
+- Attempt to index global ..._TokenFrame resolved
+
+TBag 1.13.2.2
+- AMMO now have a category
+- Right-click context menu now works with Ctrl + Right-Click
